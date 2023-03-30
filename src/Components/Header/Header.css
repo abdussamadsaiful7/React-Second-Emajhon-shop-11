@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: darkblue;
+    padding: 20px;
+    box-shadow: 3px 3px 3px gray;
+    border-radius: 0px 10px 0px 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+
+nav.header a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 40px;
+    font-size: large;
+    font-weight: bold;
+}
+
+nav.header a:hover{
+    color: red;
+}
+
