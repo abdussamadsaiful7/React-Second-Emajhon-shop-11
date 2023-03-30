@@ -1,7 +1,12 @@
 .cart{
-    padding: 25px;
+    padding-left: 25px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 25px;
     background-color: rgba(233, 150, 122, 0.658);
-    margin-right: 32px;
+    margin-right: 35px;
     box-shadow: 3px 3px 3px gray;
-    border-radius: 0px 0px 8px 8px;
+    border-radius: 0px 0px 8px 0px;
+    position: sticky;
+    top: 0;
 }
