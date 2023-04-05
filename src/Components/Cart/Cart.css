@@ -10,3 +10,16 @@
     position: sticky;
     top: 0;
 }
+
+.btn-clear-cart{
+    width: 100%;
+    margin: 10px auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    background: #FF3030;
+    border-radius: 4px;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.619);
+}
